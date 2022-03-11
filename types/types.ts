@@ -1,0 +1,6 @@
+// user Type
+export type User ={
+    uid: string;
+    email: string;
+}
+
