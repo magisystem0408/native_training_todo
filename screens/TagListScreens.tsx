@@ -1,7 +1,6 @@
 import {useDispatch, useSelector} from "react-redux";
 import {logout, selectUser} from "../slices/userSlice";
 import {Alert, SafeAreaView, Text} from "react-native";
-import firebase from "firebase/compat";
 import {auth} from "../firebaseConfig";
 import tw from "tailwind-rn";
 import {IconButton} from "../components/IconButton";
