@@ -1,5 +1,4 @@
 
-
 ## expoにおける環境構築env
 - app.jsonをapp.config.tsに変える
 - jsonにexport defaultにする
